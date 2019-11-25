@@ -15,7 +15,7 @@ A collection of quick links to image forensics papers, datasets and codebases wh
  - CVPR 2017: Workshop on Media Forensics [Link](https://users.umiacs.umd.edu/~sirius/CVPR_MF_Web/)
 
 ## 2019
-
+ - Few-Shot Adversarial Learning of Realistic Neural Talking Head Models (**arxiv2019**) [[paper](https://arxiv.org/abs/1905.08233v2)] [[code](https://github.com/grey-eye/talking-heads)]
  - FaceForensics++: Learning to Detect Manipulated Facial Images (**ICCV2019**) [[paper](https://arxiv.org/pdf/1909.11573.pdf)] [[code](https://github.com/ondyari/FaceForensics)] [[page](https://niessnerlab.org/projects/roessler2019faceforensicspp.html)]
  - Attributing Fake Images to GANs: Learning and Analyzing GAN Fingerprints (**ICCV2019**) [[paper](https://arxiv.org/abs/1811.08180)] [[code](https://github.com/ningyu1991/GANFingerprints)]
  - Exposing deep fakes using inconsistent head poses (**ICASSP2019**) [[paper](https://arxiv.org/abs/1811.00661)]

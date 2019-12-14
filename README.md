@@ -45,4 +45,4 @@ A collection of quick links to image forensics papers, datasets and codebases wh
 - Survey on blind image forgery detection [[paper](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.402.258&rep=rep1&type=pdf)] 
 
 
-Note: This might not be representative of the papers which exist in the community. It is a single page to point people to for reference, relevant to my specific research interests.
+Note: This might not be representative of the papers which exist in the community. It is a single page to point people to for reference, relevant to deepfake detection.

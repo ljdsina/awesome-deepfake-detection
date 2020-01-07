@@ -17,6 +17,7 @@ A collection of quick links to image forensics papers, datasets and codebases wh
 ## 2019
 
  - CNN-generated images are surprisingly easy to spot... for now  (**arxiv2019**) [[paper](https://arxiv.org/pdf/1912.11035.pdf)][[code](https://github.com/peterwang512/CNNDetection)]
+ - A Fourier Perspective on Model Robustness in Computer Vision (**arxiv2019**) [[paper](https://arxiv.org/abs/1906.08988)]
  - On the Detection of Digital Face Manipulation (**arxiv2019**) [[paper](https://arxiv.org/pdf/1910.01717.pdf)]
  - FakeSpotter: A Simple Baseline for SpottingAI-Synthesized Fake Faces (**arxiv2019**) [[paper](https://arxiv.org/pdf/1909.06122.pdf)]
  - Few-Shot Adversarial Learning of Realistic Neural Talking Head Models (**arxiv2019**) [[paper](https://arxiv.org/abs/1905.08233v2)] [[code](https://github.com/grey-eye/talking-heads)]
